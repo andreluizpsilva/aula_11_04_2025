@@ -33,7 +33,7 @@ def menu():
     if continuar == 's':
         return menu()
     else:
-        print('Volte sempre que precisar!')
+        print('Volte sempre que precisar! Até a próxima!')
 
     
       

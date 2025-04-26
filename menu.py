@@ -36,17 +36,6 @@ def menu():
         print('Volte sempre que precisar! Até a próxima!')
 
     
-      
 menu()
 
-# a = input('Digite o primeiro número a ser somado: ')
-# b = input('Digite o segundo número a ser somado: ')
 
-# a = input('Digite o minuendo: ')
-# b = input('Digite o subtraendo: ')
-
-# a = input('Digite o primeiro número a ser multiplicado: ')
-# b = input('Digite o segundo número a ser multiplicado: ')
-
-# a = input('Digite o dividendo: ')
-# b = input('Digite o divisor: ')
